@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Terminal=false
+Exec=/usr/local/bin/move-comics.sh
+Name=Comics
+Icon=folder

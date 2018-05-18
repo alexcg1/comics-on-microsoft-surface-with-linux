@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Terminal=false
+Name[en_US]=restore
+Exec=xrandr --output eDP1 --rotate normal
+Name=Restore
+Icon=view-restore

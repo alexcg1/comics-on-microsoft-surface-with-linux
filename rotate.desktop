@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Terminal=false
+Name[en_US]=Rotate
+Exec=xrandr --output eDP1 --rotate right
+Name=Rotate
+Icon=object-rotate-right
